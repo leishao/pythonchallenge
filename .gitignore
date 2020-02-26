@@ -1,0 +1,3 @@
+/venv/
+venv/bin/activate.fish
+venv/bin/easy_install
